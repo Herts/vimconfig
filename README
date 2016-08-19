@@ -1,1 +1,4 @@
 This is my Vim config.
+
+Usage: set your .vimrc to
+runtime vimrc

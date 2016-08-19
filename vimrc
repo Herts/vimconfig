@@ -149,9 +149,6 @@ set shiftwidth=4
 set tabstop=4
 set softtabstop=4
 
-" 80 columns
-set textwidth=79
-
 " Highlight 80th column
 set colorcolumn=80
 
