@@ -152,6 +152,9 @@ set softtabstop=4
 " 80 columns
 set textwidth=79
 
+" Highlight 80th column
+set colorcolumn=80
+
 set autoindent "Auto indent
 set smartindent "Smart indent
 set wrap "Wrap lines
