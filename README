@@ -1,4 +1,8 @@
 This is my Vim config.
 
-Usage: set your .vimrc to
+Usage:
+
+Clone this repository as your .vim directory.
+
+Set your .vimrc to
 runtime vimrc
