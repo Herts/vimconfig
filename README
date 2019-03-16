@@ -3,6 +3,7 @@ This is my Vim config.
 Usage:
 
 Clone this repository as your .vim directory.
+Must clone Vundle after cloning this repo.
 
 Set your .vimrc to
 runtime vimrc
